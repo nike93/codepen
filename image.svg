@@ -1,0 +1,38 @@
+<svg width="800" height="700" xmlns="http://www.w3.org/2000/svg">
+
+		<ellipse cx="570" cy="285" rx="60" ry="20" stroke="none" fill="lightgray" />
+		<ellipse cx="300" cy="285" rx="60" ry="20" stroke="none" fill="lightgray" />
+
+
+		<circle cx="300" cy="200" r="90" stroke="none" fill="orange" />
+		<circle cx="570" cy="200" r="90" stroke="none" fill="gold" />
+		<!-- Глаза-->
+		<circle cx="290" cy="180" r="35" stroke="none" fill="white" />
+		<circle cx="340" cy="180" r="35" stroke="none" fill="white" />
+		<circle cx="300" cy="180" r="8" stroke="none" fill="black" />
+		<circle cx="345" cy="180" r="8" stroke="none" fill="black" />
+
+
+		<circle cx="530" cy="180" r="35" stroke="none" fill="white" />
+		<circle cx="580" cy="180" r="35" stroke="none" fill="white" />
+		<circle cx="525" cy="180" r="8" stroke="none" fill="black" />
+		<circle cx="575" cy="180" r="8" stroke="none" fill="black" />
+
+
+		<circle cx="315" cy="210" r="12" stroke="none" fill="black" />
+
+
+		<ellipse cx="300" cy="247" rx="15" ry="8" stroke="none" fill="crimson" />
+		<ellipse cx="555" cy="247" rx="8" ry="15" stroke="none" fill="crimson" />
+
+		<ellipse cx="170" cy="210" rx="70" ry="25" stroke="none" fill="orange" transform="rotate(15 170 210)" />
+
+		<polygon points="105,193 140,185 130,217" stroke="none" fill="white" />
+
+		<polygon points="235,140 250,105 320,120" stroke="none" fill="orange" />
+		<polygon points="280,140 350,100 360,135" stroke="none" fill="orange" />
+
+		<polygon points="330,115 348,105 355,130" stroke="none" fill="black" />
+		<polygon points="243,132 252,108 279,115" stroke="none" fill="black" />
+
+	</svg>
