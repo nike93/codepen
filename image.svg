@@ -1,4 +1,4 @@
-<svg width="800" height="700" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="700" xlmns="http://www.w3.org/2000/svg">
 
 		<ellipse cx="570" cy="285" rx="60" ry="20" stroke="none" fill="lightgray" />
 		<ellipse cx="300" cy="285" rx="60" ry="20" stroke="none" fill="lightgray" />
